@@ -1,11 +1,12 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matart15/matart15/main/logo.svg" width="300" height="100">
+</p>	
+<img src="https://raw.githubusercontent.com/matart15/matart15/master/waves.svg" width="100%" height="150">
+
 ### Hello. 👋 My name is *Matar* . 
 
 I am from 🇲🇳**Mongolia**. Currently I am based in 🇯🇵**Tokyo, Japan**. 
-
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
-</p>	 -->
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 - 🔭 I’m currently work as CTO of [<img src="http://www.goldware.jp/wp-content/uploads/2017/10/goldware-logo7.png" height="24" />](http://www.goldware.jp/)
 - 📭 You can reach me: matart15@gmail.com
