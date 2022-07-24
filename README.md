@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is *Matar* . I am from <img src="https://cdn-icons-png.flaticon.com/24/630/630695.png" width="10" />**Mongolia**. Currently I am based in <img src="https://cdn-icons-png.flaticon.com/24/330/330622.png" width="10" />**Tokyo, Japan**. 
+
+Since I mostly work on <img src="https://cdn-icons-png.flaticon.com/24/5968/5968853.png" width="10" />Gitlab. There is no much on my <img src="https://cdn-icons-png.flaticon.com/24/733/733609.png" width="10" />Github. 
+
 <a href="https://app.daily.dev/matart15"><img src="https://api.daily.dev/devcards/4747396cdd8f4de9a4e4957ca7b70c44.png?r=6tm" width="400" alt="matar's Dev Card"/></a>
 
 # Todoist Stats
