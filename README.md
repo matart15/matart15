@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hello. 👋 My name is *Matar* . 
 
-My name is *Matar* . I am from <img src="https://cdn-icons-png.flaticon.com/24/630/630695.png" width="10" />**Mongolia**. Currently I am based in <img src="https://cdn-icons-png.flaticon.com/24/330/330622.png" width="10" />**Tokyo, Japan**. 
+I am from 🇲🇳**Mongolia**. Currently I am based in 🇯🇵**Tokyo, Japan**. 
+
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
+</p>	 -->
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+
+- 🔭 I’m currently work as CTO of [<img src="http://www.goldware.jp/wp-content/uploads/2017/10/goldware-logo7.png" height="24" />](http://www.goldware.jp/)
+- 📭 You can reach me: matart15@gmail.com
+- 🤭 Fun fact: obviously *Matar* is not my real name. It is 🇲🇳 word for 🐊
+
 
 Since I mostly work on <img src="https://cdn-icons-png.flaticon.com/24/5968/5968853.png" width="10" />Gitlab. There is no much on my <img src="https://cdn-icons-png.flaticon.com/24/733/733609.png" width="10" />Github. 
 
@@ -15,17 +25,3 @@ Since I mostly work on <img src="https://cdn-icons-png.flaticon.com/24/5968/5968
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
-<!--
-**matart15/matart15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
