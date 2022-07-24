@@ -1,8 +1,10 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matart15/matart15/main/logo.svg" width="300" height="100">
+  <img src="./logo.svg" width="300" height="100">
 </p>	
-<img src="https://raw.githubusercontent.com/matart15/matart15/master/waves.svg" width="100%" height="150">
+<!-- <img src="https://raw.githubusercontent.com/matart15/matart15/master/waves.svg" width="100%" height="150"> -->
+
+<img src="https://raw.githubusercontent.com/matart15/matart15/master/coder.svg" width="100%" height="250">
 
 ### Hello. 👋 My name is *Matar* . 
 
