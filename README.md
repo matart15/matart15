@@ -10,7 +10,7 @@
 
 I am from 🇲🇳**Mongolia**. Currently I am based in 🇯🇵**Tokyo, Japan**. 
 
-- 🔭 I’m currently working as CTO of [<img src="http://www.goldware.jp/wp-content/uploads/2017/10/goldware-logo7.png" height="24" />](http://www.goldware.jp/)
+- 🔭 I’m working as CTO of [<img src="http://www.goldware.jp/wp-content/uploads/2017/10/goldware-logo7.png" height="24" />](http://www.goldware.jp/)
 - 📭 You can reach me: matart15@gmail.com
 - 🤭 Fun fact: obviously *Matar* is not my real name. It is 🇲🇳 word for 🐊
 
