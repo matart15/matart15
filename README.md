@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/matart15/matart15/master/coder.svg" width="100%" height="250">
 
-### Hello. 👋 My name is *Matar* . 
+<p align="center">Hello. 👋 My name is *Matar*.</p>
 
 I am from 🇲🇳**Mongolia**. Currently I am based in 🇯🇵**Tokyo, Japan**. 
 
