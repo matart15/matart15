@@ -2,6 +2,9 @@ name: Todoist Readme
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
     # Runs every minute
     - cron: "59 14 * * *"
