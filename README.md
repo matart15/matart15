@@ -18,7 +18,7 @@ Since I mostly work on <img src="https://cdn-icons-png.flaticon.com/24/5968/5968
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  2,768 Karma Points           
+🏆  2,774 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 63 tasks so far           
 ⏳  Longest streak is 2 days
