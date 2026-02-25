@@ -1,21 +1,17 @@
-name: Todoist Readme
-
+name: Update Todoist Stats
 on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
   schedule:
-    # Runs every minute
-    - cron: "59 14 * * *"
+    - cron: "59 14 * * *"  # Daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update todoist stats
+  update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: abhisheknaiidu/todoist-readme@master
+      - uses: actions/checkout@v4
+      - uses: b00y0h/todoist-readme-v2@v2
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
-          PREMIUM: ""
+          PREMIUM: "true"  # Set to "false" for free users
