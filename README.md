@@ -20,8 +20,8 @@ Since I mostly work on <img src="https://cdn-icons-png.flaticon.com/24/5968/5968
 <!-- TODO-IST:START -->
 🏆  **7,702** Karma Points           
 🌸  Completed **0** tasks today           
-🗓  Completed **0** tasks this week           
-✅  Completed **445** tasks so far           
+🗓  Completed **2** tasks this week           
+✅  Completed **447** tasks so far           
 🔥  Current streak: **0 days** - Start one today!           
 ⏳  Longest streak is **2** days
 <!-- TODO-IST:END -->
